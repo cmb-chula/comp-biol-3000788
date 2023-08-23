@@ -16,6 +16,8 @@ Recorded lecture videos are hosted on Echo360.
 4. Data and scripts for in-class demos
 5. Discussion threads
 
+### Note: Interesting topics originating from in-class discussion will be posted in the *Discussion*
+
 ## Current year (Fall 2023)'s schedule and video links
 ### Module 1: Statistics and Computational Thinking
 [Lecture 1](https://echo360.net.au/media/becfed9c-ca3b-4d4f-ab8a-2a40c553875e/public): Introduction to the computational biology and course logistics
