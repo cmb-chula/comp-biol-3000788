@@ -22,4 +22,4 @@ Recorded lecture videos are hosted on Echo360.
 ### Module 1: Statistics and Computational Thinking
 [Lecture 1](https://echo360.net.au/media/becfed9c-ca3b-4d4f-ab8a-2a40c553875e/public): Introduction to the computational biology and course logistics
 
-[Lecture2](https://echo360.net.au/media/3301f110-5c8b-4eb4-8f2e-9ceaf5aca7bc/public): Probability and statistics
+[Lecture 2](https://echo360.net.au/media/3301f110-5c8b-4eb4-8f2e-9ceaf5aca7bc/public): Probability and statistics
