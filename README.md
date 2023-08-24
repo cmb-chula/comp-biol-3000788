@@ -23,3 +23,5 @@ Recorded lecture videos are hosted on Echo360.
 [Lecture 1](https://echo360.net.au/media/becfed9c-ca3b-4d4f-ab8a-2a40c553875e/public): Introduction to the computational biology and course logistics
 
 [Lecture 2](https://echo360.net.au/media/3301f110-5c8b-4eb4-8f2e-9ceaf5aca7bc/public): Probability and statistics
+
+[Lecture 3](https://echo360.net.au/media/7d6af43f-46d0-4bab-8191-2ced1c7c17ee/public): Computational thinking
