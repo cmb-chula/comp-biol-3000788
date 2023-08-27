@@ -16,7 +16,7 @@ Recorded lecture videos are hosted on Echo360.
 4. Data and scripts for in-class demos
 5. Discussion threads
 
-### Note: Interesting topics originating from in-class discussion will be posted in the *Discussion*
+### Note: Announcements and interesting topics originating from in-class discussion will be posted in the *Discussion*. Current students please check them from time to time.
 
 ## Current year (Fall 2023)'s schedule and video links
 ### Module 1: Statistics and Computational Thinking
