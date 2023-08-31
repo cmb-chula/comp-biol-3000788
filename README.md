@@ -28,5 +28,7 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 4](https://echo360.net.au/media/a8cfd219-7cc1-4eae-a788-425ab61476d4/public): DNA sequencing technology
 
+[Lecture 5](https://echo360.net.au/media/5e532dfc-77d8-4076-ad15-591734acd8ca/public): DNA sequencing data processing
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
