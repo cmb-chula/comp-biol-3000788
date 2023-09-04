@@ -26,6 +26,7 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 3](https://echo360.net.au/media/7d6af43f-46d0-4bab-8191-2ced1c7c17ee/public): Computational thinking
 
+### Module 2: DNA Sequencing Analyses and Applications
 [Lecture 4](https://echo360.net.au/media/a8cfd219-7cc1-4eae-a788-425ab61476d4/public): DNA sequencing technology
 
 [Lecture 5](https://echo360.net.au/media/5e532dfc-77d8-4076-ad15-591734acd8ca/public): DNA sequencing data processing
