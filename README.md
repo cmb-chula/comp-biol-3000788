@@ -31,6 +31,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 5](https://echo360.net.au/media/5e532dfc-77d8-4076-ad15-591734acd8ca/public): DNA sequencing data processing
 
+[Lecture 6](https://echo360.net.au/media/189d2cab-2749-4bbc-82da-901994632a70/public): Sequence alignment
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
