@@ -35,6 +35,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 7](https://echo360.net.au/media/16aee845-a572-486a-bec6-e9b3bb855358/public): Phylogenetics and molecular evolution
 
+[Lecture 8](https://echo360.net.au/media/03f1fe34-a83d-4788-9cbd-9338251e5df1/public): Metagenomics
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
