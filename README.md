@@ -44,6 +44,7 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 10](https://echo360.net.au/media/c940cb06-30d3-4767-977c-eeeca5f9671f/public): Microarray and Nanostring analysis demo. Check out the [solutions](https://github.com/cmb-chula/comp-biol-3000788/tree/main/demo) and [discussion](https://github.com/cmb-chula/comp-biol-3000788/discussions/12) for key Excel commands.
 
+[Lecture 11](https://echo360.net.au/media/986687ab-f3f5-451c-bf8f-99ee68432df4/public): RNA-sequencing.
 
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
