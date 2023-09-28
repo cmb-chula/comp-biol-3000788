@@ -48,6 +48,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 12](https://echo360.net.au/media/282e5ddb-2b68-4e3a-b71c-bba66567b054/public): RNA-sequencing analysis demo. The [kallisto](https://pachterlab.github.io/kallisto/)-[sleuth](https://pachterlab.github.io/sleuth/) pipeline was used. Check out the discussion on [basic computer knowledge and kallisto commands](https://github.com/cmb-chula/comp-biol-3000788/discussions/13) and [sleuth R commands](https://github.com/cmb-chula/comp-biol-3000788/discussions/14).
 
+[Lecture 13](https://echo360.net.au/media/f29e588b-33c7-46c0-aea1-8d340bb88131/public): Functional enrichment analysis. A discussion on the demo content and web tools will be added soon.
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
