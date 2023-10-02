@@ -50,6 +50,9 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 13](https://echo360.net.au/media/f29e588b-33c7-46c0-aea1-8d340bb88131/public): Functional enrichment analysis. A discussion on the demo content and web tools will be added soon.
 
+### Module 4: Other Omics and Advanced Topics
+[Lecture 14](https://echo360.net.au/media/2eecb19c-a9fb-4bea-9e43-6abf23eade59/public): Single-cell analysis
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
