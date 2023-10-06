@@ -53,6 +53,8 @@ Recorded lecture videos are hosted on Echo360.
 ### Module 4: Other Omics and Advanced Topics
 [Lecture 14](https://echo360.net.au/media/2eecb19c-a9fb-4bea-9e43-6abf23eade59/public): Single-cell analysis
 
+[Lecture 15](https://echo360.net.au/media/3d5ad384-c6ff-4f42-9696-2ab43feb3c4c/public): Single-cell analysis and Colab demo
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
