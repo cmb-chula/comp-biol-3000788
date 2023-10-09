@@ -55,6 +55,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 15](https://echo360.net.au/media/3d5ad384-c6ff-4f42-9696-2ab43feb3c4c/public): Single-cell analysis and Colab demo
 
+[Lecture 16](https://echo360.net.au/media/9c5c82f8-d592-471c-8e0c-f5288254d041/public): Proteomics
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
