@@ -48,14 +48,16 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 12](https://echo360.net.au/media/282e5ddb-2b68-4e3a-b71c-bba66567b054/public): RNA-sequencing analysis demo. The [kallisto](https://pachterlab.github.io/kallisto/)-[sleuth](https://pachterlab.github.io/sleuth/) pipeline was used. Check out the discussion on [basic computer knowledge and kallisto commands](https://github.com/cmb-chula/comp-biol-3000788/discussions/13) and [sleuth R commands](https://github.com/cmb-chula/comp-biol-3000788/discussions/14).
 
-[Lecture 13](https://echo360.net.au/media/f29e588b-33c7-46c0-aea1-8d340bb88131/public): Functional enrichment analysis. A discussion on the demo content and web tools will be added soon.
+[Lecture 13](https://echo360.net.au/media/f29e588b-33c7-46c0-aea1-8d340bb88131/public): Functional enrichment analysis. Check out the discussion on the [web tools](https://github.com/cmb-chula/comp-biol-3000788/discussions/16).
 
 ### Module 4: Other Omics and Advanced Topics
 [Lecture 14](https://echo360.net.au/media/2eecb19c-a9fb-4bea-9e43-6abf23eade59/public): Single-cell analysis
 
-[Lecture 15](https://echo360.net.au/media/3d5ad384-c6ff-4f42-9696-2ab43feb3c4c/public): Single-cell analysis and Colab demo
+[Lecture 15](https://echo360.net.au/media/3d5ad384-c6ff-4f42-9696-2ab43feb3c4c/public): Single-cell analysis on Google Colab demo
 
 [Lecture 16](https://echo360.net.au/media/9c5c82f8-d592-471c-8e0c-f5288254d041/public): Proteomics
+
+[Lecture 17](https://echo360.net.au/media/5ee2cac2-a775-4933-9c5c-6603009cc547/public): Mass spectrometry data visualization and database search demo
 
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
