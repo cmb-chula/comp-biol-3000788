@@ -59,6 +59,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 17](https://echo360.net.au/media/5ee2cac2-a775-4933-9c5c-6603009cc547/public): Mass spectrometry data visualization and database search demo
 
+[Lecture 18](https://echo360.net.au/media/511f3b2b-9cfd-41a7-a8b1-a6f8b963635a/public): Biological networks
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
