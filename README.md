@@ -61,6 +61,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 18](https://echo360.net.au/media/511f3b2b-9cfd-41a7-a8b1-a6f8b963635a/public): Biological networks
 
+[Lecture 19](https://echo360.net.au/media/5f927b6b-10c7-49b2-9752-fcc46b112d86/public): Cytoscape demo for visualizing network data
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
