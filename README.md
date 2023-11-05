@@ -14,7 +14,8 @@ Recorded lecture videos are hosted on Echo360.
 2. Compiled list of URLs for recorded videos (See below)
 3. Problem sets and other assignments
 4. Data and scripts for in-class demos
-5. Discussion threads
+5. Python notebooks for the programming sessions
+6. Discussion threads
 
 ### Note: Announcements and interesting topics originating from in-class discussion will be posted in the *Discussion*. Current students please check them from time to time.
 
@@ -66,6 +67,10 @@ Recorded lecture videos are hosted on Echo360.
 [Lecture 20](https://echo360.net.au/media/97db4779-18c4-4f4f-94cf-51c5d6410a20/public): Chromatin organization
 
 [Lecture 21](https://echo360.net.au/media/d1b33b80-b9c3-4d41-936f-7fa132e5f7fd/public): Gene expression dynamics simulation for systems biology
+
+[Lecture 22 (TBD)]: Useful online tools and resources 
+
+### Module 5: Programming with Python
 
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
