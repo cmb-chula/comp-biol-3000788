@@ -68,9 +68,10 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 21](https://echo360.net.au/media/d1b33b80-b9c3-4d41-936f-7fa132e5f7fd/public): Gene expression dynamics simulation for systems biology
 
-[Lecture 22 (TBD)]: Useful online tools and resources 
+[Lecture 22](https://echo360.net.au/media/3b75d5cb-5984-4958-9a8e-c26a930a243a/public): Online databases and tools 
 
 ### Module 5: Programming with Python
+[Lecture 23](https://echo360.net.au/media/9d05a6ef-36bb-4e96-a129-a55655447bf7/public): Introduction to Python programming
 
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
