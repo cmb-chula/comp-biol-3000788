@@ -73,6 +73,8 @@ Recorded lecture videos are hosted on Echo360.
 ### Module 5: Programming with Python
 [Lecture 23](https://echo360.net.au/media/9d05a6ef-36bb-4e96-a129-a55655447bf7/public): Introduction to Python programming
 
+[Lecture 24](https://echo360.net.au/media/aebd9005-2722-42a5-b0e2-05a385f2ff58/public): Python data structure and pandas
+
 ### Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
