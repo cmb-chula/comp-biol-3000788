@@ -75,7 +75,7 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 24](https://echo360.net.au/media/aebd9005-2722-42a5-b0e2-05a385f2ff58/public): Python data structure and pandas
 
-### Problem Sets
+## Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
 [Problem Set 2](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS2_090423.pdf): Hand in by **Monday, September 18 at 11:59pm** via email
@@ -89,3 +89,5 @@ Recorded lecture videos are hosted on Echo360.
 [Problem Set 6](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS6_102323.pdf): Hand in by **Thursday, November 2 at 11:59pm** via email
 
 [Problem Set 7](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS7_110223.pdf): Hand in by **Thursday, November 9 at 11:59pm** via email
+
+[Problem Set 8](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS8_110923.ipynb): Hand in by **Thursday, November 16 at 11:59pm** via email
