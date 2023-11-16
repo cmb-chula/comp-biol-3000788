@@ -75,6 +75,10 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 24](https://echo360.net.au/media/aebd9005-2722-42a5-b0e2-05a385f2ff58/public): Python data structure and pandas
 
+[Lecture 25 (TBD)]: Visualization with matplotlib and seaborn
+
+[Lecture 26](https://echo360.net.au/media/07ce11b3-c85a-4fd7-926d-fa1b8a0f0ac5/public): Statistical analysis with Python
+
 ## Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
@@ -91,3 +95,5 @@ Recorded lecture videos are hosted on Echo360.
 [Problem Set 7](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS7_110223.pdf): Hand in by **Thursday, November 9 at 11:59pm** via email
 
 [Problem Set 8](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS8_110923.ipynb): Hand in by **Thursday, November 16 at 11:59pm** via email
+
+[Problem Set 9](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS9_111623.ipynb): Hand in by **Thursday, November 23 at 11:59pm** via email
