@@ -75,7 +75,7 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 24](https://echo360.net.au/media/aebd9005-2722-42a5-b0e2-05a385f2ff58/public): Python data structure and pandas
 
-[Lecture 25 (TBD)]: Visualization with matplotlib and seaborn
+[Lecture 25](https://echo360.net.au/media/55438214-4174-44cd-9d81-ca56bf588213/public): Visualization with matplotlib and seaborn
 
 [Lecture 26](https://echo360.net.au/media/07ce11b3-c85a-4fd7-926d-fa1b8a0f0ac5/public): Statistical analysis with Python
 
