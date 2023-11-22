@@ -97,3 +97,5 @@ Recorded lecture videos are hosted on Echo360.
 [Problem Set 8](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS8_110923.ipynb): Hand in by **Thursday, November 16 at 11:59pm** via email
 
 [Problem Set 9](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS9_111623.ipynb): Hand in by **Thursday, November 23 at 11:59pm** via email
+
+[Problem Set 10](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS10_112323.ipynb): Hand in by **Thursday, December 7 at 11:59pm** via email
