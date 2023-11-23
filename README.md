@@ -81,6 +81,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 27](https://echo360.net.au/media/c0224163-8c78-45cc-bf10-fe0d4ee41e41/public): Principles of machine learning
 
+[Lecture 28](https://echo360.net.au/media/448df2e4-3601-40d5-812f-25227b1ee225/public): Unsupervised learning techniques
+
 ## Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
