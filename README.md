@@ -83,6 +83,8 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 28](https://echo360.net.au/media/448df2e4-3601-40d5-812f-25227b1ee225/public): Unsupervised learning techniques
 
+[Lecture 29](https://echo360.net.au/media/d1d26869-db79-4871-8c12-d683c4dfc04f/public): Supervised learning with Python
+
 ## Problem Sets
 [Problem Set 1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2023_PS1_083423.pdf): Hand in by **Monday, September 4 at 11:59pm** via email
 
