@@ -81,7 +81,7 @@ Recorded lecture videos are hosted on Echo360.
 
 [Lecture 27](https://echo360.net.au/media/c0224163-8c78-45cc-bf10-fe0d4ee41e41/public): Principles of machine learning
 
-[Lecture 28](https://echo360.net.au/media/448df2e4-3601-40d5-812f-25227b1ee225/public): Unsupervised learning techniques
+[Lecture 28](https://echo360.net.au/media/448df2e4-3601-40d5-812f-25227b1ee225/public): Unsupervised learning with Python
 
 [Lecture 29](https://echo360.net.au/media/d1d26869-db79-4871-8c12-d683c4dfc04f/public): Supervised learning with Python
 
