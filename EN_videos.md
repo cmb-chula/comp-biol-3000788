@@ -63,3 +63,5 @@ The corresponding slides and demo contents are provided in the [fall2022-slides 
 [Lecture 28](https://echo360.net.au/media/837c97a1-a9c2-4061-8e9e-4218c93c5d37/public): Supervised learning with Python
 
 [Lecture 29](https://echo360.net.au/media/8c775a5d-e144-4480-a8ca-33aacf89bbf4/public): Introduction to deep learning
+
+Due to a technical issue, the video for Lecture 30 was missing. Only the slides and Python notebook are provided.
