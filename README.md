@@ -1,13 +1,9 @@
 # Welcome to comp-biol-3000788
 This is the repository for the learning materials from the **3000788: Introduction to Computational Molecular Biology** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
-Current contents are from Fall 2023. The slides and problem sets are all in English.
+Current contents listed below are from Fall 2023, which were taught in Thai. All slides and handouts are in English.
 
-Recorded lecture videos are hosted on Echo360.
-
-**For past years' videos**, please visit the [Courses page](http://cmb.md.chula.ac.th/courses.html) of our website.
-* The English version was recorded in Fall 2022.
-* The Thai version was recorded in Fall 2020 and is currently being updated.
+**English contents recorded in Fall 2022** can be found [here](https://github.com/cmb-chula/comp-biol-3000788/blob/main/EN_videos.md).
 
 ## What can you find here?
 1. Latest lecture slides in PDF format
@@ -17,7 +13,7 @@ Recorded lecture videos are hosted on Echo360.
 5. Python notebooks for the programming sessions
 6. Discussion threads
 
-### Note: Announcements and interesting topics originating from in-class discussion will be posted in the *Discussion*. Current students please check them from time to time.
+### Announcements and interesting topics originating from in-class discussion will be posted in the *Discussion*. Current students please check them from time to time.
 
 ### Current students can check their performance in the [score table](https://github.com/cmb-chula/comp-biol-3000788/blob/main/PS_scores.md)!
 
