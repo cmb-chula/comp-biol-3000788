@@ -1,7 +1,7 @@
 # Welcome to comp-biol-3000788
 This is the repository for the learning materials from the **3000788: Introduction to Computational Molecular Biology** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
-Current contents are from Fall 2023 (ongoing). The slides and problem sets are all in English.
+Current contents are from Fall 2023. The slides and problem sets are all in English.
 
 Recorded lecture videos are hosted on Echo360.
 
