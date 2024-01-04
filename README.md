@@ -1,3 +1,5 @@
+# Important! Due to technical issue at the university, all links to videos will be down until further notice :(
+
 # Welcome to comp-biol-3000788
 This is the repository for the learning materials from the **3000788: Introduction to Computational Molecular Biology** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
