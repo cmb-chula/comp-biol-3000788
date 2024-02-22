@@ -4,7 +4,7 @@ The corresponding slides and demo contents are provided in the [fall2022-slides 
 Here is the full [YouTube playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xOqi-C4d8CGNDf5OiS4osAG)
 
 ### Module 1: DNA sequencing
-[Lecture 1](): Course introduction
+Lecture 1: Course introduction
 
 [Lecture 2](https://youtu.be/u35WuJ0o_pE): Statistics review
 
@@ -12,16 +12,16 @@ Here is the full [YouTube playlist](https://www.youtube.com/playlist?list=PLJIJC
 
 [Lecture 4](https://youtu.be/uXvhOWyk4rc): Sequencing data
 
-[Lecture 5](): Sequence alignment and applications
+[Lecture 5](https://youtu.be/LLe32sHXum4): Sequence alignment and applications
 
 [Lecture 6](https://youtu.be/YNUO4yWTEBM): Phylogenetics
 
-[Lecture 7](): Metagenomics
+[Lecture 7](https://youtu.be/vBLbM7Al8cM): Metagenomics
 
 ### Module 2: Transcriptomics
-[Lecture 8](): Transcriptomics technology
+[Lecture 8](https://youtu.be/lTI0Srz7uNg): Transcriptomics technology
 
-[Lecture 9](): Microarray analysis with Excel
+[Lecture 9](https://youtu.be/dPL1OOOqm3k): Microarray analysis with Excel
 
 [Lecture 10](https://youtu.be/htYQv3a5cHE): RNA-seq data analysis
 
