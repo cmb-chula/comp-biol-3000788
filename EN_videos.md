@@ -34,11 +34,11 @@ Lecture 1: Course introduction
 [Lecture 14](https://youtu.be/SQBA5D_ZReQ): Single-cell transcriptomics demo
 
 ### Module 3: Other omics
-[Lecture 15](): Proteomics (recorded for BSE611: Synthetic and Systems Biology)
+[Lecture 15](https://youtu.be/voKDf5QBlOM): Proteomics (recorded for BSE611: Synthetic and Systems Biology)
 
 [Lecture 16](https://youtu.be/xR-xVQyWt-M): Proteomics demo
 
-[Lecture 17](): Chromatin organization (recorded for 2310640: Genomics and Systems Biology )
+[Lecture 17](https://youtu.be/eC4hbyG-9oo): Chromatin organization (recorded for 2310640: Genomics and Systems Biology)
 
 [Lecture 18](https://youtu.be/6yxg7k0j0cE): Biological networks
 
