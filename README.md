@@ -62,7 +62,7 @@ Here is the [YouTube playlist](https://www.youtube.com/playlist?list=PLJIJClalm2
 
 [Lecture 19](https://youtu.be/mqIqC0Lvqow): Cytoscape demo for visualizing network data
 
-[Lecture 20](hhttps://youtu.be/aDpNnKerU5g): Chromatin organization
+[Lecture 20](https://youtu.be/aDpNnKerU5g): Chromatin organization
 
 [Lecture 21](https://youtu.be/yFGeuHCeED8): Gene expression dynamics simulation for systems biology
 
