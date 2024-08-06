@@ -66,4 +66,4 @@ Lecture 1: Course introduction
 
 [Lecture 29](https://youtu.be/CN8-EKNzRu0): Introduction to deep learning
 
-Due to a technical issue, the video for Lecture 30 was missing. Only the slides and Python notebook are provided.
+Due to a technical issue, the video for Lecture 30 on dynamics modeling was missing. Only the slides and Python notebook are provided.
