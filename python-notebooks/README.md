@@ -1,1 +1,1 @@
-## The latest Python notebooks for the programming section of the course (currently Fall 2023)
+## Python notebooks for the programming section from Fall 2023
