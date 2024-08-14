@@ -16,14 +16,14 @@ Current students can check their performance in the [score table](https://github
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
 
-### Module 1: Statistics and Computational Thinking
+### Module 0: Statistics and Computational Thinking
 Lecture 1: Introduction to the computational biology and course logistics
 
 Lecture 2: Probability and statistics
 
 Lecture 3: Computational thinking
 
-### Module 2: DNA Sequencing Analyses and Applications
+### Module 1: DNA Sequencing Analyses and Applications
 Lecture 4: DNA sequencing technology
 
 Lecture 5: DNA sequencing data processing
@@ -34,7 +34,7 @@ Lecture 7: Phylogenetics and molecular evolution
 
 Lecture 8: Metagenomics
 
-### Module 3: Transcriptomics
+### Module 2: Transcriptomics
 Lecture 9: Microarray and Nanostring
 
 Lecture 10: Microarray and Nanostring analysis demo. Check out the [solutions](https://github.com/cmb-chula/comp-biol-3000788/tree/main/demo) and [discussion](https://github.com/cmb-chula/comp-biol-3000788/discussions/12) for key Excel commands.
@@ -45,11 +45,11 @@ Lecture 12: RNA-sequencing analysis demo. The [kallisto](https://pachterlab.gith
 
 Lecture 13: Functional enrichment analysis. Check out the discussion on the [web tools](https://github.com/cmb-chula/comp-biol-3000788/discussions/16).
 
-### Module 4: Other Omics and Advanced Topics
 Lecture 14: Single-cell analysis
 
 Lecture 15: Single-cell analysis on Google Colab demo
 
+### Module 3: Other Omics and Advanced Topics
 Lecture 16: Proteomics
 
 Lecture 17: Mass spectrometry data visualization and database search demo
@@ -64,7 +64,7 @@ Lecture 21: Gene expression dynamics simulation for systems biology
 
 Lecture 22: Online databases and tools 
 
-### Module 5: Programming with Python
+### Module 4: Programming and Machine Learning with Python
 Lecture 23: Introduction to Python programming
 
 Lecture 24: Python data structure and pandas
