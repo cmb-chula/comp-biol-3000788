@@ -1,5 +1,5 @@
 ## Here are the Thai videos from Fall 2023
-The corresponding slides are provided in the [fall2023-content folder](https://github.com/cmb-chula/comp-biol-3000788/tree/main/fall2023-slides). Demo contents are provided as URLs in the [demo folder](https://github.com/cmb-chula/comp-biol-3000788/tree/main/demo).
+The corresponding slides are provided in the [fall2023-slides folder](https://github.com/cmb-chula/comp-biol-3000788/tree/main/fall2023-slides). Demo contents are provided as URLs in the [demo folder](https://github.com/cmb-chula/comp-biol-3000788/tree/main/demo).
 
 Here is the [YouTube playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xOqIi4fjy3bNJd8hVx_jVX7) of all lectures
 
