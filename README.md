@@ -8,6 +8,8 @@ This is the repository for the learning materials from the **3000788: Introducti
 
 All slides and handouts are provided in English.
 
+Here is a [guide](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Video_study_guide.xlsx) of the keywords and key concepts to look out for while watching the videos.
+
 ## Announcements
 Announcements and accumulated interesting discussions will be posted in the *Discussion*. Please check them for more contents.
 
