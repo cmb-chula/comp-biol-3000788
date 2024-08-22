@@ -15,6 +15,12 @@ Announcements and accumulated interesting discussions will be posted in the *Dis
 
 Current students can check their performance in the [score table](https://github.com/cmb-chula/comp-biol-3000788/blob/main/PS_scores.md)!
 
+`*NEW*` Follow the recording from this year on the [Youtube Playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xPxko0QX7HzWLwe8kvyz1zO)
+
+`*NEW*` Problem set 1 has been released.
+
+`*NEW*` Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Room_schedule.pdf) for the Wed 1-3pm sessions was uploaded.
+
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
 
@@ -84,4 +90,6 @@ Lecture 29: Supervised learning with Python
 Lecture 30: Deep learning in life sciences
 
 ## Problem Sets
-[TBD](): Hand in by **TBD at 11:59pm** via email
+Email to sira.sr [at] chula.ac.th
+
+[PS1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS1.pdf): Hand in by **Tuesday August 28 at 11:59pm**
