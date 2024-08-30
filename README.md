@@ -92,4 +92,4 @@ Lecture 30: Deep learning in life sciences
 ## Problem Sets
 Email to sira.sr [at] chula.ac.th
 
-[PS1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS1.pdf): Hand in by **Tuesday August 28 at 11:59pm**
+[PS1](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS1.pdf): Hand in by **Tuesday August 27 at 11:59pm**
