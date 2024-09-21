@@ -21,6 +21,8 @@ Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main
 
 `*NEW*` Problem set 4 has been released.
 
+`*NEW*` Problem set 5 is postponed by 1 week (to be released on **Sep 25**) to ensure that everyone has a good handle on the kallisto-sleuth RNA-seq pipeline.
+
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
 
