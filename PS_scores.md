@@ -4,11 +4,11 @@ For students, the last five digits of your student IDs were used. For non-studen
 
 | Student ID / Code Name  | PS1 | PS2 | PS3 | PS4 | PS5 | PS6 | PS7 | PS8 | PS9 | PS10 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Blue  |   |  |   |   |   |   |   |   |   |   |
-| Cheimon  |   |  |   |   |   |   |   |   |   |   |
-| Ivar  |   |  |   |   |   |   |   |   |   |   |
-| NongShabu  |   |  |   |   |   |   |   |   |   |   |
-| KKM  |   |  |   |   |   |   |   |   |   |   |
-| Jusmine  |   |  |   |   |   |   |   |   |   |   |
-| KP  |   |  |   |   |   |   |   |   |   |   |
-| NC  |   |  |   |   |   |   |   |   |   |   |
+| DC  |  85 | 94 |   |   |   |   |   |   |   |   |
+| CB  | 88  | 100 |   |   |   |   |   |   |   |   |
+| Ivar  | 76  | 94 |   |   |   |   |   |   |   |   |
+| KKM  |  76 | 88 |   |   |   |   |   |   |   |   |
+| Cheimon  | 82  | 88 |   |   |   |   |   |   |   |   |
+| NC  |  73 | 94 |   |   |   |   |   |   |   |   |
+| PC  |  94 | 94 |   |   |   |   |   |   |   |   |
+| Blue  | 94  | 91 |   |   |   |   |   |   |   |   |
