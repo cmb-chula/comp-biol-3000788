@@ -19,9 +19,7 @@ Follow the recording from this year on the [Youtube Playlist](https://www.youtub
 
 Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Room_schedule.pdf) for the Wed 1-3pm sessions was uploaded.
 
-`*NEW*` Problem set 4 has been released.
-
-`*NEW*` Problem set 5 is postponed by 1 week (to be released on **Sep 25**) to ensure that everyone has a good handle on the kallisto-sleuth RNA-seq pipeline.
+`*NEW*` Problem set 5 has been released.
 
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
@@ -58,3 +56,5 @@ Email to sira.sr [at] chula.ac.th
 [PS3](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS3.pdf): Hand in by **Tuesday September 10 at 11:59pm**
 
 [PS4](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS4.pdf): Hand in by **Tuesday September 17 at 11:59pm**
+
+[PS5](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS5.pdf): Hand in by **Tuesday October 1 at 11:59pm**
