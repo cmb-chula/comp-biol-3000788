@@ -21,6 +21,8 @@ Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main
 
 `*NEW*` Problem set 5 has been released.
 
+`*NEW*` Recording for the RNA-seq analysis demo has been uploaded to the Youtube Playlist as [Week 6 Part 2](https://youtu.be/GI2a31pVxhA).
+
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
 
