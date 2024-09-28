@@ -19,7 +19,7 @@ Follow the recording from this year on the [Youtube Playlist](https://www.youtub
 
 Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Room_schedule.pdf) for the Wed 1-3pm sessions was uploaded.
 
-`*NEW*` Problem set 5 has been released.
+`*NEW*` Problem set 5 and 6 have been released.
 
 `*NEW*` Recording for the RNA-seq analysis demo has been uploaded to the Youtube Playlist as [Week 6 Part 2](https://youtu.be/GI2a31pVxhA).
 
