@@ -21,7 +21,7 @@ Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main
 
 `*NEW*` Don't forget to install [Anaconda](https://www.anaconda.com/download/success) and download the [files](https://github.com/cmb-chula/comp-biol-3000788/tree/main/python-notebooks) for the Python sessions.
 
-`*NEW*` The last lecture originally scheduled for Nov 27th has been moved to Nov 18th (1-3pm). Please add it to your calendar. The calendar file is updated.
+`*NEW*` The last lecture originally scheduled for Nov 27th has been moved to Nov 18th (1-3pm). Please add it to your calendar. The course schedule table is updated.
 
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
