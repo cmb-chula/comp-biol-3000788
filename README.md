@@ -19,7 +19,7 @@ Follow the recording from this year on the [Youtube Playlist](https://www.youtub
 
 Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Room_schedule.pdf) for the Wed 1-3pm sessions was uploaded.
 
-`*NEW*` Problem set 7 and 8 have been released.
+`*NEW*` Don't forget to install [Anaconda](https://www.anaconda.com/download/success) and download the [files](https://github.com/cmb-chula/comp-biol-3000788/tree/main/python-notebooks) for the Python sessions.
 
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
