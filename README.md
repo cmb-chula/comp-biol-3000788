@@ -19,9 +19,9 @@ Follow the recording from this year on the [Youtube Playlist](https://www.youtub
 
 Lecture room [schedule](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Room_schedule.pdf) for the Wed 1-3pm sessions was uploaded.
 
-`*NEW*` Don't forget to install [Anaconda](https://www.anaconda.com/download/success) and download the [files](https://github.com/cmb-chula/comp-biol-3000788/tree/main/python-notebooks) for the Python sessions.
-
 `*NEW*` The last lecture originally scheduled for Nov 27th has been moved to Nov 18th (1-3pm). Please add it to your calendar. The course schedule table is updated.
+
+`*NEW*` PS9 and PS10 have been released. Since the last lecture was moved up, this should give everyone more time to work on the final problem sets. Both of them are due at the end of the course.
 
 ## Current year (Fall 2024)'s schedule and problem sets
 Problem sets' download links and deadlines are located at the bottom.
@@ -66,3 +66,5 @@ Email to sira.sr [at] chula.ac.th
 [PS7](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS7.pdf): Hand in by **Tuesday October 15 at 11:59pm**
 
 [PS8](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS8.pdf): Hand in by **Tuesday October 29 at 11:59pm**
+
+[PS9](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS9.ipynb) and [PS10](https://github.com/cmb-chula/comp-biol-3000788/blob/main/problem-sets/3000788_Fall2024_PS10.ipynb): Hand in by **Tuesday November 26 at 11:59pm**
