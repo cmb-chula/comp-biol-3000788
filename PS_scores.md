@@ -4,4 +4,11 @@ For students, the last five digits of your student IDs were used. For non-studen
 
 | Student ID / Code Name  | PS1 | PS2 | PS3 | PS4 | PS5 | PS6 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|   |   |   |   |   |   |   |
+| 160345 |   |   |   |   |   |   |
+| Kwylo |   |   |   |   |   |   |
+| NatSan |   |   |   |   |   |   |
+| Xiangling |   |   |   |   |   |   |
+| MO |   |   |   |   |   |   |
+| Naew |   |   |   |   |   |   |
+| P10 |   |   |   |   |   |   |
+| Gene |   |   |   |   |   |   |
