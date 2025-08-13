@@ -2,9 +2,7 @@
 This is the repository for the learning materials from the **3000788: Introduction to Computational Molecular Biology** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
 ## Announcements
-Announcements and accumulated interesting discussions will be posted in the *Discussion*. Please check them for more contents.
-
-Current students can check their performance in the [score table](https://github.com/cmb-chula/comp-biol-3000788/blob/main/PS_scores.md)!
+Current students can check their assignment score in the [score table](https://github.com/cmb-chula/comp-biol-3000788/blob/main/PS_scores.md)!
 
 `*NEW*` Follow this year's lecture recordings on the [2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xP7T1e8uFOoNCewdHCrCmTT).
 
@@ -23,10 +21,11 @@ E-mail to sira.sr [at] chula.ac.th
 
 **Thai video contents recorded in Fall 2023** can be found [here](https://github.com/cmb-chula/comp-biol-3000788/blob/main/TH_videos.md).
 
-All slides and handouts are provided in English.
-
 Here is a [guide](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Video_study_guide.xlsx) of the keywords and key concepts to look out for while watching past videos.
 
+**Fall 2024**'s slides are not provided because they are shortern versions of Fall 2023's contents.
+
+## Past years' course structure
 ### Module 0: Statistics and Computational Thinking
 Introduction to the computational biology, review of probability and statistics, and computational thinking
 
