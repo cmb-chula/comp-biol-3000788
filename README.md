@@ -6,11 +6,11 @@ Current students can check their assignment score in the [score table](https://g
 
 `*NEW*` Follow this year's lecture recordings on the [2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xP7T1e8uFOoNCewdHCrCmTT).
 
-`*NEW*` Lecture time and location are still being finalized. For now, please join via zoom (sent to each student's email)
+`*NEW*` Lectures will be held in Room 1216, 12th Floor, Bhusiri Mangkhalanusorn Building
 
 ## Current year (Fall 2025)'s schedule and assignments
 ### Schedule and location
-Monday and Wednesday at 10:00-11:30am (pending confirmation). Location is being finalized.
+Monday and Wednesday at 10:00-11:30am in Room 1216, 12th Floor, Bhusiri Mangkhalanusorn Building.
 
 ### Assignment
 E-mail to sira.sr [at] chula.ac.th
