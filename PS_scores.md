@@ -12,3 +12,4 @@ For students, the last five digits of your student IDs were used. For non-studen
 | Naew |   |   |   |   |   |   |
 | P10 |   |   |   |   |   |   |
 | Gene |   |   |   |   |   |   |
+| Baragi |   |   |   |   |   |   |
