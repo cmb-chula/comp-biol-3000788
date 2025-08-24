@@ -27,7 +27,7 @@ Here is a [guide](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Video
 
 **Fall 2024**'s slides are not provided because they are shortern versions of Fall 2023's contents.
 
-## Past years' course structure
+## Past course structure
 ### Module 0: Statistics and Computational Thinking
 Introduction to the computational biology, review of probability and statistics, and computational thinking
 
