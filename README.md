@@ -29,8 +29,6 @@ E-mail to sira.sr [at] chula.ac.th
 
 Here is a [guide](https://github.com/cmb-chula/comp-biol-3000788/blob/main/Video_study_guide.xlsx) of the keywords and key concepts to look out for while watching past videos.
 
-**Fall 2024**'s slides are not provided because they are shortern versions of Fall 2023's contents.
-
 ## Past course structure
 ### Module 0: Statistics and Computational Thinking
 Introduction to the computational biology, review of probability and statistics, and computational thinking
