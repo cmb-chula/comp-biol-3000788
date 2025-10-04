@@ -4,11 +4,28 @@ This is the repository for the learning materials from the **3000788: Introducti
 ## Announcements
 Current students can check their assignment score in the [score table](https://github.com/cmb-chula/comp-biol-3000788/blob/main/PS_scores.md)!
 
-`*NEW*` Follow this year's lecture recordings on the [2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xP7T1e8uFOoNCewdHCrCmTT).
+Follow this year's lecture recordings on the [2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xP7T1e8uFOoNCewdHCrCmTT).
 
-`*NEW*` Lectures will be held in Room 1216, 12th Floor, Bhusiri Mangkhalanusorn Building
+Lectures will be taught in English at Room 1216, 12th Floor, Bhusiri Mangkhalanusorn Building
 
-## Current year (Fall 2025)'s schedule and assignments
+
+# Current curriculum (Fall 2025)
+### Contents
+1. Computational thinking and algorithms
+2. Molecular assays based on DNA sequencing
+3. Analysis of DNA sequencing data: alignment, assembly, and variant calling
+4. Phylogenetics and molecular evolution
+5. Metagenomics
+6. Epigenetics and DNA motifs
+7. Transcriptomics: technology, differential expression, and functional enrichment
+8. Single-cell and spatial technology
+9. Proteomics and mass spectrometry
+10. Systems biology: multi-omics and network
+11. Structural biology: chromatin, RNA, and protein
+12. Microscopic image analysis
+13. Statistical analysis and data visualization
+14. Machine learning and AI in biology
+
 ### Schedule and location
 Monday and Wednesday at 10:00-11:30am in Room 1216, 12th Floor, Bhusiri Mangkhalanusorn Building.
 
