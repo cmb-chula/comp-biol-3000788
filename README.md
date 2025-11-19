@@ -40,7 +40,7 @@ Monday and Wednesday at 10:00-11:30am in Room 1216, 12th Floor, Bhusiri Mangkhal
 
 [Assignment 5](https://github.com/cmb-chula/comp-biol-3000788/blob/main/assignment/3000788_Fall2025_assignment5.pdf) Due: 3 Nov 2025, 11:59pm
 
-`*NEW*` [Assignment 6](https://github.com/cmb-chula/comp-biol-3000788/blob/main/assignment/3000788_Fall2025_assignment6.pdf) Due: 17 Nov 2025, 11:59pm
+[Assignment 6](https://github.com/cmb-chula/comp-biol-3000788/blob/main/assignment/3000788_Fall2025_assignment6.pdf) Due: 17 Nov 2025, 11:59pm
 
 E-mail to sira.sr [at] chula.ac.th
 
